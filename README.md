@@ -13,4 +13,4 @@
  3. Explore and test the impact of ANN architecture and parameter settings on predicting the results.
  
 ### Frameworks of Experiments
-<img width="60%" height="60%" src="https://github.com/hsuemily/ANN-in-Condition-based-Predictive-Maintenance/blob/master/Dataset/Frameworks%20of%20Experiments.png"/>
+<img width="70%" height="70%" src="https://github.com/hsuemily/ANN-in-Condition-based-Predictive-Maintenance/blob/master/Dataset/Frameworks%20of%20Experiments.png"/>
